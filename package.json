@@ -1,0 +1,19 @@
+{
+  "name": "node-markov",
+  "version": "1.0.0",
+  "description": "This project is the creation of a Markov machine.",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackWinford42/Markov-Node-JS.git"
+  },
+  "author": "Jack Winford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackWinford42/Markov-Node-JS/issues"
+  },
+  "homepage": "https://github.com/jackWinford42/Markov-Node-JS#readme"
+}
