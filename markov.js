@@ -91,12 +91,4 @@ class MarkovMachine {
   }
 }
 
-//let mm = new MarkovMachine("the cat in the hat");
-
-// let mm = new MarkovMachine("the cat in the hat is in the hat")
-// console.log(mm.makeText(50))
-
-// let mnm = new MarkovMachine("look if you had one shot or one opportunity to seize everything you ever wanted in one moment would you capture it or just let it slip yo his palms are sweaty knees weak arms are heavy there's vomit on his sweater already mom's spaghetti")
-// console.log(mnm.makeText(50))
-
 module.exports = MarkovMachine;
